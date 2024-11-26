@@ -4,7 +4,7 @@
 The objective is to analyze the factors influencing the ratings of restaurants listed on Zomato in Bengaluru and develop a predictive model to estimate restaurant ratings. By examining various attributes such as location, cuisine type, cost, online ordering availability etc.  aim is to understand their impact on restaurant ratings and build a model that accurately predicts these ratings.
 
 ### Dataset Description
-The dataset is introduced from Kaggle. This dataset involves information about various restaurants based in Bengaluru that are registered on Zomato website. The dataset contains the following attributes:
+The dataset is introduced from Kaggle(https://www.kaggle.com/code/bablukd/zomato-bangalore-restaurant-rating-prediction/input). This dataset involves information about various restaurants based in Bengaluru that are registered on Zomato website. The dataset contains the following attributes:
 
 1. url - contains the url of the restaurant in the zomato website
 2. address - contains the address of the restaurant in Bengaluru
